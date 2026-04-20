@@ -1,5 +1,5 @@
 # Feriadao Com Padroes - Disciplina Projetos Orientados a Objetos
-# Exercício Prático: Mestre de Dungeon 
+#  Mestre de Dungeon 
 Uma desenvolvedora de jogos indie deseja criar um motor robusto para gerenciar masmorras procedurais em um RPG. 
 O sistema deve ser altamente modular, permitindo que novos monstros, equipamentos e comportamentos sejam adicionados 
 sem a necessidade de reescrever o núcleo do jogo.
