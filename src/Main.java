@@ -1,8 +1,5 @@
 import monstros.MonstroObservavel;
-import monstros.Monstro;
-import Strategy.DefesaForte;
-import MonstrosFactory;
-import NucleoMasmorraSingleton;
+import monstros.MonstrosFactory;
 
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or

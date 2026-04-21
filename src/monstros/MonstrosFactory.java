@@ -1,4 +1,4 @@
-import monstros.*;
+package monstros;
 
 public class MonstrosFactory {
     private String tipoMonstro;

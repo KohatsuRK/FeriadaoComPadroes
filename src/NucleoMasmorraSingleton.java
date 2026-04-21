@@ -1,5 +1,5 @@
 public class NucleoMasmorraSingleton {
-    private NucleoMasmorraSingleton instancia;
+    private static NucleoMasmorraSingleton instancia;
     private int dificuldade;
     private int recorde;
 
@@ -10,7 +10,7 @@ public class NucleoMasmorraSingleton {
 
 
 
-    public NucleoMasmorraSingleton getInstance() {
+    public static NucleoMasmorraSingleton getInstance() {
         if (instancia == null) {
             instancia = new NucleoMasmorraSingleton();
         }
