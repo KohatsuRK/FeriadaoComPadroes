@@ -8,6 +8,8 @@ public class NucleoMasmorraSingleton {
         this.recorde   = 0;
     }
 
+
+
     public NucleoMasmorraSingleton getInstance() {
         if (instancia == null) {
             instancia = new NucleoMasmorraSingleton();
