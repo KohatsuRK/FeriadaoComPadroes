@@ -1,6 +1,6 @@
 package Adapter;
 
-class AdaptadorControle implements Comando {
+public class AdaptadorControle implements Comando {
     private final ControleConsole controle;
     public AdaptadorControle(ControleConsole controle) { this.controle = controle; }
 

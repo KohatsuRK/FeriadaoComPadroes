@@ -1,5 +1,7 @@
+package Observer;
+
 public class NucleoMasmorraSingleton {
-    private static NucleoMasmorraSingleton instancia;
+    static NucleoMasmorraSingleton instancia;
     private int dificuldade;
     private int recorde;
 

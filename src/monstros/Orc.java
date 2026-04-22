@@ -7,7 +7,7 @@ import Strategy.DefesaForte;
 import java.util.ArrayList;
 import java.util.List;
 
-class Orc implements MonstroObservavel {
+public class Orc implements MonstroObservavel {
 
     private int vida = 80;
     private ComportamentoMonstro ia;
